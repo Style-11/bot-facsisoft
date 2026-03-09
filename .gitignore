@@ -1,0 +1,8 @@
+# Credenciales sensibles - NUNCA subir a GitHub
+bot-facsisoft-655f3545d3ba.json
+.env
+
+# Archivos locales
+*.xlsx
+__pycache__/
+*.pyc
