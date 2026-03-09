@@ -15,7 +15,7 @@ SISTEMAS = [
     "pickles2",
     "floreriayregaloslaestacion",
     "worldfit360",
-    "chfameilee",
+    "chifameilee",
     "multifarma",
     "feileng",
     "bijuki",
